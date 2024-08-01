@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="life">
+        <item>dead_gradient_color|Мёртвая|или прикидывается</item>
+        <item>live_gradient_color|Живая|и шевелится!</item>
+        <item>final_live_color|Жизнь|Ку-ку!</item>
+        <item>final_dead_color|Смерть|Бай-бай!</item>
+    </string-array>
+</resources>
